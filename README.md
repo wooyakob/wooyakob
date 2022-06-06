@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @wooyakob
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python, Django and PostgreSQL.
-- 💞️ I’m looking to collaborate on projects which improve my understanding of these languages. 
 - 📫 How to reach me: jake_wood@mac.com.
 
 <!---
