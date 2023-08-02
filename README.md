@@ -5,6 +5,7 @@ You can find most information about myself and my work at https://linktr.ee/wooy
 Head to --> Website / Portfolio for more detailed info.
 
 🛠️ Technologies & Tools: 
+
 Python,  Django, Flask, SQL, Javascript, Bootstrap, CSS, HTML, MSFT Azure, Git
 
 Biggest project I'm working on right now: http://salesensai.com/
