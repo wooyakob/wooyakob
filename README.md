@@ -10,4 +10,4 @@ Python,  Django, Flask, SQL, Javascript, Bootstrap, CSS, HTML, MSFT Azure, Git
 
 Biggest project I'm working on right now: http://salesensai.com/
 
-📫 You canreach me at jake_wood@mac.com / +1 858-333-0282
+📫 You can reach me at jake_wood@mac.com / +1 858-333-0282
