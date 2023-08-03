@@ -2,7 +2,7 @@
 
 You can redirect to  https://linktr.ee/wooyakob
 
-Head to --> Website, for more detailed information about myself and my work.
+Head to --> Website, for more detailed information about myself and work.
 
 🛠️ Technologies & Tools: 
 
