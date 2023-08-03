@@ -7,7 +7,9 @@ Head to --> Website, for more detailed information about myself and my work.
 🛠️ Technologies & Tools: 
 
 **Languages:** Python, Javascript, CSS, HTML
+
 **Frameworks:**  Django, Flask, Bootstrap
+
 **Other:** MSFT Azure, Gitflow Design, Github Actions, Git
 
 Biggest project I'm working on right now: http://salesensai.com/
