@@ -2,7 +2,7 @@
 
 You can find most information about myself and my work at https://linktr.ee/wooyakob
 
-Head to --> Website / Portfolio for more detailed info.
+Head to --> Website, for more detailed info.
 
 🛠️ Technologies & Tools: 
 
