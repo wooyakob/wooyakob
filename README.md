@@ -2,7 +2,7 @@
 
 You can redirect to  https://linktr.ee/wooyakob
 
-Head to --> Website, for more detailed information about myself and work.
+Head to --> jacobawood.com, for more detailed information about myself and work.
 
 🛠️ Technologies & Tools: 
 
@@ -10,8 +10,8 @@ Head to --> Website, for more detailed information about myself and work.
 
 - **Frameworks:**  Django, Flask, Bootstrap
 
-- **Other:** MSFT Azure, Gitflow Design, Github Actions, Git
+- **Other:** MSFT Azure, Google Cloud, AWS, Gitflow Design, Github Actions, Git
 
-Biggest project I'm working on right now: http://salesensai.com/
+Biggest project I'm working on right now: https://salesensai.com/
 
 📫 You can reach me at jake_wood@mac.com / +1 858-333-0282
