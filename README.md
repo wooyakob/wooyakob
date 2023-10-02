@@ -1,6 +1,6 @@
 👋 Hi, I’m Jacob
 
-Head to --> jacobawood.com, for more detailed information about myself and work.
+Head to --> www.jacobawood.com, for more detailed information about myself and work.
 
 🛠️ Technologies & Tools: 
 
