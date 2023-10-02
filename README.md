@@ -6,7 +6,7 @@ Head to --> jacobawood.com, for more detailed information about myself and work.
 
 🛠️ Technologies & Tools: 
 
-- **Languages:** Python, Javascript, CSS, HTML
+- **Languages:** Python, SQL, Javascript, CSS, HTML
 
 - **Frameworks:**  Django, Flask, Bootstrap
 
