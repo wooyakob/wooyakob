@@ -1,7 +1,5 @@
 👋 Hi, I’m Jacob
 
-You can redirect to  https://linktr.ee/wooyakob
-
 Head to --> jacobawood.com, for more detailed information about myself and work.
 
 🛠️ Technologies & Tools: 
