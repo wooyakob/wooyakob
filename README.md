@@ -2,8 +2,8 @@
 
 🛠️ Technologies & Tools: 
 
-- **Languages:** Python, SQL, Javascript, CSS, HTML. Learning Ruby.
+- **Languages:** Python, SQL, Javascript, CSS, HTML. 
 
-- **Frameworks:**  Django, Flask, Bootstrap. Learning Rails.
+- **Frameworks:**  Django, Flask, Bootstrap.
 
 - **Other:** MSFT Azure, Google Cloud Platform.
