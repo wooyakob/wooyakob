@@ -2,8 +2,8 @@
 
 🛠️ Technologies & Tools: 
 
-- **Languages:** Python, SQL, Javascript, CSS, HTML. 
+- **Languages:** Python, SQL, HCL, Shell, JavaScript, CSS, HTML
 
-- **Frameworks:**  Django, Flask, Bootstrap.
+- **Frameworks:**  Django, Flask, Bootstrap
 
-- **Other:** MSFT Azure, Google Cloud Platform.
+- **Other:** MSFT Azure, Google Cloud Platform
