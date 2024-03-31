@@ -4,6 +4,8 @@
 
 - **Languages:** Python, SQL, HCL, Shell, JavaScript, CSS, HTML
 
-- **Frameworks:**  Django, Flask, Bootstrap
+- **Frameworks:**  Django, Flask, Bootstrap, React
 
-- **Other:** MSFT Azure, Google Cloud Platform
+- **Other:** Google Cloud Certified: Professional Cloud Architect, MSFT Certified: Azure Fundamentals
+
+- **Learning:** Ruby, Ruby on Rails
