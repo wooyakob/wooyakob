@@ -1,5 +1,7 @@
 👋 Hi, I’m Jacob
 
+💼 Sales Engineer at Brio Technologies
+
 🛠️ Technologies & Tools: 
 
 - **Languages:** Python, SQL, HCL, Shell, JavaScript, CSS, HTML
@@ -8,4 +10,7 @@
   
 - **Learning:** Ruby, Ruby on Rails
 
-- **Certifications:** Google Cloud Certified: Professional Cloud Architect, MSFT Certified: Azure Fundamentals, HackerRank Certified: Python & SQL
+🎓 Certifications: 
+
+- **Cloud:** Google Cloud Certified: Professional Cloud Architect, MSFT Certified: Azure Fundamentals
+- **Programming:** HackerRank Certified: Python & SQL
