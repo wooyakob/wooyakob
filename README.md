@@ -7,8 +7,6 @@
 - **Languages:** Python, SQL, HCL, Shell, JavaScript, CSS, HTML
 
 - **Frameworks:**  Django, Flask, Bootstrap, React
-  
-- **Learning:** Ruby, Ruby on Rails
 
 🎓 Certifications: 
 
