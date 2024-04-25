@@ -4,7 +4,7 @@
 
 🛠️ Technologies & Tools: 
 
-- **Languages:** Python, SQL, HCL, Shell, JavaScript, CSS, HTML
+- **Languages:** Python, SQL, JavaScript, CSS, HTML, HCL, Shell
 
 - **Frameworks:**  Django, Flask, Bootstrap, React
 
