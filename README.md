@@ -10,7 +10,7 @@
 
 - **Other**: CSS, HTML, Bootstrap, Hashicorp Language, Bash / Shell, Linux
 
-- **Learning**: React, TypeScript, Vercel, Next, Node, Ruby, Ruby on Rails
+- **Learning**: React, TypeScript, Tailwind, Vercel, Next, Node, Ruby, Ruby on Rails
 
 🎓 Certifications: 
 
