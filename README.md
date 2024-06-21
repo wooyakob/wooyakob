@@ -4,11 +4,13 @@
 
 🛠️ Technologies & Tools: 
 
-- **Languages:** Python, SQL, JavaScript, Ruby
+- **Languages:** Python, SQL, JavaScript
 
-- **Frameworks:**  Django, Flask, Rails, React
+- **Frameworks:**  Django, Flask
 
 - **Other** CSS, HTML, Bootstrap, Hashicorp Language, Bash / Shell, Linux
+
+- **Learning** React, Vercel, Next, Node, Ruby, Ruby on Rails
 
 🎓 Certifications: 
 
