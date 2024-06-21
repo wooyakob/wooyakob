@@ -8,9 +8,9 @@
 
 - **Frameworks:**  Django, Flask
 
-- **Other** CSS, HTML, Bootstrap, Hashicorp Language, Bash / Shell, Linux
+- **Other**: CSS, HTML, Bootstrap, Hashicorp Language, Bash / Shell, Linux
 
-- **Learning** React, Vercel, Next, Node, Ruby, Ruby on Rails
+- **Learning**: React, Vercel, Next, Node, Ruby, Ruby on Rails
 
 🎓 Certifications: 
 
