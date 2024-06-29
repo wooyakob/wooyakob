@@ -4,5 +4,5 @@
 
 🎓 Certifications: 
 
-- **Cloud:** Google Cloud Certified: Professional Cloud Architect, MSFT Certified: Azure Fundamentals
+- **Cloud:** Google Cloud Architect, MSFT Azure Fundamentals
 - **Programming:** HackerRank Certified: Python & SQL
