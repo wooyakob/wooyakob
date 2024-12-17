@@ -1,6 +1,6 @@
 👋 Hi, I’m Jacob
 
-💼 Engineer at Brio Technologies
+💼 Sales Engineer at Brio Technologies
 
 🎓 Certifications: 
 
