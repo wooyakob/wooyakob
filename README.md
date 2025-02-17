@@ -2,7 +2,8 @@
 
 💼 Sales Engineer at Brio Technologies
 
-🎓 Certifications: 
+Certified Google Cloud Architect.
 
-- **Cloud:** Google Cloud Architect, MSFT Azure Fundamentals
-- **Programming:** HackerRank: Python & SQL
+I help our customers to use Google Cloud Platform and Google Workspace.
+
+Primary Languages (including most associated frameworks): Python, SQL, JavaScript.
